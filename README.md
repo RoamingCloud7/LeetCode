@@ -36,3 +36,10 @@
 
 2024.02.04:
 61. Rotate List
+
+2024.02.06:
+24. Swap Nodes in Pairs
+
+2024.02.07:
+21. Merge Two Sorted Lists
+160. Intersection of Two LinkedList
