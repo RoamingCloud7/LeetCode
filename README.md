@@ -77,3 +77,8 @@
 2024.02.08:
 2. Add Two Numbers
 445. Add Two Numbers II
+
+2024.02.09:
+242. Valid Anagram
+349. Intersection of Two Arrays
+202. Happy Number
