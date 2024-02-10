@@ -82,3 +82,7 @@
 242. Valid Anagram
 349. Intersection of Two Arrays
 202. Happy Number
+
+2024.02.10:
+1. Two Sum
+383. Ransom Note
