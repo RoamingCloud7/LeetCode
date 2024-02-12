@@ -90,3 +90,6 @@
 2024.02.11:
 344. Reverse String
 541. Reverse String II
+
+2024.02.12:
+387. First Unique Character in a String
