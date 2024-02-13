@@ -93,3 +93,7 @@
 
 2024.02.12:
 387. First Unique Character in a String
+
+2024.02.13:
+409. Longest Palindrome
+125. Valid Palindrome
