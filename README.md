@@ -103,3 +103,8 @@
 
 2024.02.16:
 209. Minimum Size Subarray
+
+2024.02.18:
+20. Valid Parentheses
+1021. Remove Outermost Parentheses
+856. Score of Parentheses
