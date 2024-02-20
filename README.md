@@ -108,3 +108,7 @@
 20. Valid Parentheses
 1021. Remove Outermost Parentheses
 856. Score of Parentheses
+
+2024.02.20:
+1047. Remove All Ajacent Duplicates in String
+394. Decode String
