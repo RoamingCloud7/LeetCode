@@ -117,3 +117,12 @@
 155. Min Stack
 739. Daily Temperatures
 84. Largest Rectangle in Histogram
+
+2024.02.24:
+144. Binary Tree Preorder Traversal
+94. Binary Tree Inorder Traversal
+145. Binary Tree Postorder Traversal
+
+2024.02.25:
+102. Binary Tree Level Order Traversal
+
