@@ -132,3 +132,8 @@
 2024.02.26:
 1008. Construct Binary Search Tree from Preorder Traversal
 
+2024.02.27:
+114. Flatten Binary Tree to Linked List
+104. Maximum Depth of Binary Tree
+111. Minimum Depth of Binary Tree
+101. Symmetric Tree
