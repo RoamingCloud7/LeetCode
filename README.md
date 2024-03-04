@@ -152,3 +152,7 @@
 2024.03.02:
 113. Path Sum II
 437. Path Sum III
+
+2024.03.04
+98. Validate Binary Search
+230. Kth Smallest Element in a BST
